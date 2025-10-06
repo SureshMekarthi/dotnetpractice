@@ -1,0 +1,8 @@
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\bin\Debug\Multithreadingconcepts.exe.config
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\bin\Debug\Multithreadingconcepts.exe
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\bin\Debug\Multithreadingconcepts.pdb
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\obj\Debug\Multithreadingconcepts.csproj.AssemblyReference.cache
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\obj\Debug\Multithreadingconcepts.csproj.CoreCompileInputs.cache
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\obj\Debug\Multithreadingconcepts.exe
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\obj\Debug\Multithreadingconcepts.pdb
+C:\DOTNET-SESSIONS\DotNet\Multithreadingconcepts\obj\Debug\Multithreadingconcepts.exe.config
