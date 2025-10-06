@@ -1,0 +1,13 @@
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\DotNet.exe.config
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\DotNet.exe
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\DotNet.pdb
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.exe
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.pdb
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.exe.config
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\EntityFramework.dll
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\EntityFramework.SqlServer.dll
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\EntityFramework.xml
+C:\DOTNET-SESSIONS\DotNet\DotNet\bin\Debug\EntityFramework.SqlServer.xml
+C:\DOTNET-SESSIONS\DotNet\DotNet\obj\Debug\DotNet.csproj.Up2Date
